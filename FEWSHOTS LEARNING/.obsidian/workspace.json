@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "df42457681803efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe4854fe5c71926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0769e14d4b195c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Few Shots learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcb887bb7690357d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Few Shots learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d6a93624f99d01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "922a389daf563fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ml in simple terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ab3f21b261773a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "679a25c322444c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT and GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43b09995fb186532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "U-net.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb14945d4440d7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "U-net.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6be113d930726f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "placements.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd7ce59540e3bcb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "U-net architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97b25cdb70800881",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b07769180ec173a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa95f1da1d6d6ba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "906d22549f02c97a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "061653e43c78f718",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "067e13d24e83992d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3c42ae297294776a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d976c9b23ef56dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a406641f6c0a34e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "placements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "261842f45539bf12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "placements.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "229d47db2ad59e98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d1fbe8c3976777ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "placements.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6be113d930726f3a",
+  "lastOpenFiles": [
+    "U-net architecture.md",
+    "Ml in simple terms.md",
+    "U-net.md",
+    "GIT and GITHUB.md",
+    "Pasted image 20240131162426.png",
+    "CNN.md",
+    "Coding.md",
+    "Pasted image 20240128064229.png",
+    "Pasted image 20240128062905.png",
+    "Pasted image 20240128060103.png",
+    "placements.md",
+    "Pytorch.md",
+    "Pasted image 20240125180018.png",
+    "Pasted image 20240125175746.png",
+    "Pasted image 20240122000006.png",
+    "Pasted image 20240121235851.png",
+    "Pasted image 20240121234158.png",
+    "Pasted image 20240121233830.png",
+    "Untitled.md",
+    "Few Shots learning.md",
+    "Untitled/Untitled",
+    "Untitled 2",
+    "Untitled 1",
+    "differernce between f and b pass.md",
+    "Untitled",
+    "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md",
+    "Excalidraw",
+    "2003.08462v2.pdf",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Research paper"
+  ]
+}
